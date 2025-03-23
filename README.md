@@ -6,7 +6,8 @@
 # 🪪 CHECK IF ANY ACCOUNT IS BANNED
 
 ```http
-GET https://garena420ffapi.vercel.app/profile_info?uid={uid}&region={region}&key={key}
+GET http://localhost/isbanned.php?uid={uid}
+GET http://yourdomain/isbanned.php?uid={uid}
 ```
 
 
